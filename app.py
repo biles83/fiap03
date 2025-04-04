@@ -58,9 +58,9 @@ df_validacao.to_csv('predicao.csv', index=False)
 
 ## EVIAR O ARQUIVO PARA A CLOUD ##
 
-storage_account_key = "T5NMdY7rnwKb+k8Qsr2FFLdovFnMsg3lyrlOR/CteRL5pDLuhpPpth6OAoYqZf23GGEKA/e5uc31+ASt4KOlWw=="
+storage_account_key = "xxxxxx"
 storage_account_name = "fiaptechchallengefase03"
-connection_string = "DefaultEndpointsProtocol=https;AccountName=fiaptechchallengefase03;AccountKey=T5NMdY7rnwKb+k8Qsr2FFLdovFnMsg3lyrlOR/CteRL5pDLuhpPpth6OAoYqZf23GGEKA/e5uc31+ASt4KOlWw==;EndpointSuffix=core.windows.net"
+connection_string = "xxxxxx"
 container_name = "dados"
 
 
